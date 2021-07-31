@@ -205,12 +205,12 @@ vendor/lib64/libsdm-disp-vndapis.so|68f9171c08a2ba9654aaa3a1d9b0c050ae07bd97
 vendor/lib64/libsdmextension.so|ddcc83174b5b6dbed08888002cd08674f907e777
 vendor/lib64/libtinyxml2_1.so|ff32deb110acb02cb5def5f3404f9064c1276483
 
-# Display postprocessing - from PNX - RKQ1.200906.002
-vendor/bin/hw/vendor.display.color@1.0-service|a9d360976833d863f74df381298de696daea8acb
-vendor/bin/mm-pp-dpps|e825298dc12603df29c35aa6ad86fd0d0a7646a2
+# Display postprocessing - from OnePlus6 - RKQ1.201217.002-2107130217-release-keys
+vendor/bin/hw/vendor.display.color@1.0-service|f953144ced6869e640ca67930cea6d63e38f0a0d
+vendor/bin/mm-pp-dpps|0445e221a376694bd2a24f65ae7dceb32173228f
 vendor/bin/ppd|8b60669c32f091dd5832579892c91dc3eb0e8130
 vendor/etc/init/vendor.display.color@1.0-service.rc|5ad673f879b3685a0e79b5633437e5499cb94f48
-vendor/lib/libdisp-aba.so|9271ecfa4d389d99bc592ab2a460eacef7515836
+vendor/lib/libdisp-aba.so|82d7a6706392f687abb77df6205e39224a5c5141
 vendor/lib/vendor.display.color@1.0.so|640ab2b9c2f0077634ed74263c5558076d431203
 vendor/lib/vendor.display.color@1.1.so|732531bbea59f5c1a90f409350d290607189c47f
 vendor/lib/vendor.display.color@1.2.so|f1ea074c629f1fc27000efb44617f7e8386b12d4
@@ -218,7 +218,7 @@ vendor/lib/vendor.display.color@1.3.so|1467fbb9cbbb331da846fd2bcc3e644b55723bd5
 vendor/lib/vendor.display.color@1.4.so|3b7f6a489f66b2cc8b3e5a467b9fe3f95a59c775
 vendor/lib/vendor.display.color@1.5.so|e97e31b9567f9a6f9031063d2356e7391ba719e3
 vendor/lib/vendor.display.postproc@1.0.so|251c33b11743f5e24ca220b220da367996f3077b
-vendor/lib64/libdisp-aba.so|e76d6756cbb0532bc83ff98a06c4ca02fecdd8fe
+vendor/lib64/libdisp-aba.so|96126e40caaef8e32ab3498faf1e320754478103
 vendor/lib64/vendor.display.color@1.0.so|253cd210899ea79133c7b7b9d31429e4a8d43c32
 vendor/lib64/vendor.display.color@1.1.so|fe9b373785571bb890db27523b804dc7d4411bca
 vendor/lib64/vendor.display.color@1.2.so|f40eb8c9d39776c43448431d7c7f7ecc3e4506c3
